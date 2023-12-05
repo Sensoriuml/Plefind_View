@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlEfInd View</string>
+
+    <string name="APPLICATION_ID">3F1B428C-1B01-3E02-FFA8-7B9963771A00</string>
+    <string name="API_KEY">5BE5B77F-1FAA-4ED9-86F5-164398C20672</string>
+    <string name="SERVER_URL">https://api.backendless.com</string>
+
+</resources>
